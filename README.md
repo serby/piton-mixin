@@ -1,5 +1,7 @@
 # piton-simplate - Light weight template parser
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/serby/piton-mixin.svg)](https://greenkeeper.io/)
+
 A super light weight async template parser for nodejs
 
 ## Installation
